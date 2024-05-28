@@ -1,4 +1,4 @@
-**Library Manager Application**
+# Library Manager Application
 
 **Description:**
 The Library Manager application is a robust and user-friendly tool designed for managing library operations efficiently. It provides features for managing books, members, and includes a chatbot for user assistance. Additionally, it offers an intuitive dashboard for quick access to key library statistics and information.
